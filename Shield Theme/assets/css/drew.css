@@ -1,0 +1,29 @@
+/*#fan h1 {
+
+  font-size: 200px;
+}*/
+/*.fanD {
+    width: 100%;
+    background-image: url(./assets/img/bigfan.png)
+    background-repeat: repeat-y;
+
+}*/
+
+#fuck img{
+ background-repeat: no-repeat;
+ background-position: right top;
+ background-attachment: fixed;
+ height:auto;
+ padding-bottom:300px;
+}
+
+#fuck h1{
+  color:green;
+}
+
+#blueman {
+
+    height: 700px;
+    background: url("./assets/img/bigfan.png") no-repeat center center scroll;
+    background-size: cover;
+}
